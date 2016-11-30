@@ -1,4 +1,4 @@
-ud120-projects
+Enron Fraud
 ==============
 
 Code for identifying Enron Fraud project from Udacity 
